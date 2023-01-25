@@ -13,4 +13,3 @@ function fetchApiData() {
       });
     });
 }
-// Consumindo API Json placeholder
